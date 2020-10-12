@@ -87,7 +87,7 @@ function Fondos () {
     }
 }
 let color = 0
-game.splash("Laberinto 6x6", "Autor: Claudio Orts")
+game.splash("Laberinto 25x25", "Autor: Claudio Orts")
 let yo = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . 6 6 6 6 . . . . . . 
